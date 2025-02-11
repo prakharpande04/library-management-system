@@ -4,7 +4,7 @@ import './../styles/Loading.css';
 function Loading() {
   return (
     <div className="loading">
-      <p className='first'>Pustak.com</p>
+      <p className='first'>BookVerse.com</p>
       <p className='second'>Manage It Efficiently !!</p>
     </div>
   );
